@@ -1,0 +1,2 @@
+Nom	 	prénom	 	date de naissance		adresse e-mail		adresse postale			numéro de téléphone
+X		Triple		01/01/0011			LaMort@MaSuit.com	rue des cadavres 31		0477/07.07.07
